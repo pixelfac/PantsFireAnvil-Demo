@@ -10,6 +10,9 @@ This build of the game features two (2) gamemodes; Singleplayer and  2P Multipla
 Tip: the AI in Singleplayer mode is pretty dumb so they may accidentally eliminate themselves trying to reach their target 
 ```
 
+## But seriously, how do I open the game?
+Download the repository and run the executable within the "Pants, Fire, Anvil Alpha 2.0" folder.
+
 ## Singleplayer
 You compete against an AI in a preset arrangement of positions. Currently there is only this one "level", but I plan to add more levels and new game mechanics for more puzzling fun.
 
