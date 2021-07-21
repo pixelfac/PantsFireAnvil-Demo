@@ -1,0 +1,8 @@
+Tutorial Box,0
+Long Stare,0
+Back Alley,0
+Carousel,0
+Bean,0
+Shift,0
+Hourglass,0
+Plus,0
